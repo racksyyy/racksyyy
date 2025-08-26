@@ -1,5 +1,5 @@
 # 👋🏼 Wassup!! I am Pranav!!
-👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>🔗 We can connect on LinkedIn https://www.linkedin.com/in/pranav-a-330a14338/
+👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>
 
 
 ## 🌐 Socials:
