@@ -1,4 +1,4 @@
-#👋🏼 Wassup! I am Pranav!
+### 👋🏼 Wassup! I am Pranav!
 <br>👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>
 
 ## 🌐 Socials:
