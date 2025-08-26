@@ -1,5 +1,5 @@
-# 💫 About Me:
-Wassup!! I am Pranav!!<br>👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>
+#👋🏼 Wassup! I am Pranav!
+<br>👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-a-330a14338) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranavaunkumaraj@gmail.com) 
