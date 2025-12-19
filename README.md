@@ -15,8 +15,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=racksyyy&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-![snake gif](https://github.com/racksyyy/racksyyy/blob/output/github-snake-dark.svg)
 
+<div align="center">
+![snake gif](https://github.com/racksyyy/racksyyy/blob/output/github-snake-dark.svg)
+</div>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=racksyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
