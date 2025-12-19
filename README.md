@@ -12,10 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=racksyyy&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=racksyyy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=racksyyy&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-
 <div align="center">
   
 ![snake gif](https://github.com/racksyyy/racksyyy/blob/output/github-snake-dark.svg)
