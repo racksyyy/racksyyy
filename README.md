@@ -1,5 +1,5 @@
 # 👋🏼 Heyy!! I am Pranav!!
-# <br>👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>
+# 👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>
 
 
 ## 🌐 Socials:
