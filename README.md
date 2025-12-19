@@ -15,9 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=racksyyy&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/racksyyy/racksyyy/blob/output/github-snake-dark.svg)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=racksyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
