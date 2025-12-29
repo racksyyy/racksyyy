@@ -1,4 +1,4 @@
-# 👋🏼 Heyy!! I am Pranav!!
+# 👋🏼 Heyy! I am Pranav!
   👨‍💻 Studying AI Engineering at Amrita Vishwa Vidyapeetham, Bengaluru, India<br>
 
 
